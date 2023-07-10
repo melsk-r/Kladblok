@@ -28,9 +28,9 @@ plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
 
-remote_theme: michielverhoef/jekyll-theme-vng
+remote_theme: melsk-r/jekyll-theme-vng
 
-github: michielverhoef/kladblok
+github: melsk-r/Kladblok
 
 theme: jekyll-theme-time-machine
 
