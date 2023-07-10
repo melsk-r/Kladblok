@@ -28,7 +28,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-remote-theme
 
-remote_theme: melsk-r/jekyll-theme-vng
+remote_theme: melsk-r/jekyll-theme-vng-maykin
 
 github: melsk-r/Kladblok
 
