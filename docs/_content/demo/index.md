@@ -2,10 +2,10 @@
 title: Demo NoIndex
 layout: subjects
 folder_files:
-  - title: bijdragen.md
-  - title: scrumteam.md
-  - title: Test.md
-  - title: Formulier_Aansluiting_CORV_Acc_v20170821.pdf
+  - bijdragen.md
+  - scrumteam.md
+  - Test.md
+  - Formulier_Aansluiting_CORV_Acc_v20170821.pdf
 #  - title: bijdragen.md
 #    path: documenten/bijdragen.md
 #    group: 3.10
